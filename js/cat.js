@@ -471,8 +471,8 @@ const pauseBtn = {
 const bg = {
     sx: 0,
     sy: 0,
-    sw: 5906,
-    sh: 5906,
+    sw: 1280,
+    sh: 1280,
     dx: 0,
     dy: 0,
     dw: canvas.width,
