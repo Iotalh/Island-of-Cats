@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#cat {
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+@font-face {
+    font-family: huninn;
+    src: url(../font/jf-openhuninn-1.1.ttf);
+}
