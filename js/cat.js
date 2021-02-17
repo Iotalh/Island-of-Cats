@@ -14,7 +14,7 @@ const audioImg = new Image();
 const musicImg = new Image();
 const bestImg = new Image();
 
-bgImage.src = "img/background.jpg";
+bgImage.src = "img/bg.jpg";
 btns.src = "img/btn.png";
 dialogs.src = "img/dialog.png";
 catBelly.src = "img/cat/cat_bellys.png";
